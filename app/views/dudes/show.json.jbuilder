@@ -1,0 +1,1 @@
+json.partial! "dudes/dude", dude: @dude
